@@ -1,0 +1,4 @@
+enum TableEnum {
+  Article,
+  Source
+}
